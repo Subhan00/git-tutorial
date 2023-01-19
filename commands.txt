@@ -5,3 +5,4 @@ git status ---------- to check status
 git checkout -- . ----------- for aroow icon that discard all changes at one time or for a specific files
 if you add file in git it goes in staged area and other changes area represents current changes
 commands for upper changes are ------------ git reset .
+rm -rf .git to completely remove git from project
